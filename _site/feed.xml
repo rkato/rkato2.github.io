@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronald Kato</title>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://example.com/</link>
+    <description>For the things we have to learn, we learn by doing them</description>
+    <pubDate>Sat, 14 Mar 2015 21:10:19 +0200</pubDate>
+    
+      <item>
+        <title>Next-generation JavaScript Client Frameworks / Libraries</title>
+        <link>http://example.com/2015/03/07/nextgen-js.html</link>
+        <guid isPermaLink="true">http://example.com/2015/03/07/nextgen-js.html</guid>
+        <description>&lt;p&gt;The landscape of JavaScript frameworks / libraries is changing fast. What started out as way to handle the DOM better through
+declarative data binding has evolved into a competitive niche with Google and Facebook pitching contrasting
+ideas and un expected collaborations – &lt;a href=&quot;http://blogs.msdn.com/b/typescript/archive/2015/03/05/angular-2-0-built-on-typescript.aspx&quot;&gt;a Angular 2 is built on TypeScript&lt;/a&gt;. So with ES6 on the horizon this is how it looking:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Angular 2.0&lt;/li&gt;
+  &lt;li&gt;Aurelia&lt;/li&gt;
+  &lt;li&gt;Ember.js&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now you are probably thinking where is React on that list. The guys at React say that it’s the V in MVC. But what does this mean for dynamic client UIs?&lt;/p&gt;
+
+&lt;p&gt;In the next couple of posts, I will explore this landscape with the intention of gaining a better understanding of where we may be heading. All I can say now is that will all these options, it’s a great time to be a client side developer.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Mar 2015 00:00:00 +0200</pubDate>
+      </item>
+    
+  </channel>
+</rss>

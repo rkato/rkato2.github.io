@@ -5,7 +5,21 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>For the things we have to learn, we learn by doing them</description>
-    <pubDate>Sat, 14 Mar 2015 21:10:19 +0200</pubDate>
+    <pubDate>Sun, 02 Aug 2015 22:30:03 +0200</pubDate>
+    
+      <item>
+        <title>Up and running with Aurelia</title>
+        <link>http://example.com/2015/08/01/Auerlia.html</link>
+        <guid isPermaLink="true">http://example.com/2015/08/01/Auerlia.html</guid>
+        <description>&lt;p&gt;&lt;a href=&quot;http://aurelia.io&quot;&gt;Aurelia&lt;/a&gt; is the latest incarnation from &lt;a href=&quot;http://eisenbergeffect.bluespire.com/&quot;&gt;Rob Eisenberg&lt;/a&gt;. If you have used &lt;a href=&quot;http://durandaljs.com/&quot;&gt;Durandal 2.0&lt;/a&gt; and liked it, then this may just be the framework for your next App. I really liked Durandal 2.0, and used it on two projects before I dove into Angular 1.x.&lt;/p&gt;
+
+&lt;p&gt;Aurelia’s documentation is quiet good, as a walk through of the “getting started” section went without a hitch. Setting up a modern JavaScript App using &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; and boostrapping a project with – &lt;a href=&quot;http://yeoman.io/&quot;&gt;Yeoman&lt;/a&gt; is really a breeze and if you have not tried it, you should give it a go.&lt;/p&gt;
+
+&lt;p&gt;I will be restructuring the default skeleton app to build a typical ecommerce app with the intention of pushing Aurelia to it’s limits. This should reveal all it’s capabilities. During this time I  will share my thoughts on the conventions of this framework, tasks such as routing, binding and templating. This should be fun and I will keep you posted.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Aug 2015 00:00:00 +0200</pubDate>
+      </item>
     
       <item>
         <title>Next-generation JavaScript Client Frameworks / Libraries</title>

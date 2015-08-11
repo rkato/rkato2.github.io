@@ -2,6 +2,8 @@
 layout: post
 title:  What is a Skill?
 ---
+![alt text](https://github.com/rkato/rkato.github.io/blob/master/img/skill.jpg?raw=true =250x) 
+
 As I continued to investigate the next generation JavaScript SPA frameworks, I paused and thought about our continuous chase for the next framework. Always looking for the next shinny toy to play with. The question that arose in my head was: Does knowing Aurelia, Angular, Entity Framework, Nancy, Katana, React or (insert your latest framework of interest) qualify as a skill?
 
 Just as I was pondering this , I came across a recent post from [Uncle Bob](https://en.wikipedia.org/wiki/Robert_Cecil_Martin), entitled ['Make the magic go away'](http://blog.cleancoder.com/). This blog post really resonates with me, in that it challenges us to think about the commitments that we are making when we choose a framework as the basis for our solution. If those commitments are huge, we often find ourself having to write alot of framework bound code to get things done. 

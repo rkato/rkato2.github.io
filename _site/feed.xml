@@ -5,25 +5,28 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>For the things we have to learn, we learn by doing them</description>
-    <pubDate>Sun, 09 Aug 2015 01:15:17 +0200</pubDate>
+    <pubDate>Tue, 11 Aug 2015 17:31:57 +0200</pubDate>
     
       <item>
         <title>What is a Skill?</title>
         <link>http://example.com/2015/08/09/What%20is%20a%20skill.html</link>
         <guid isPermaLink="true">http://example.com/2015/08/09/What%20is%20a%20skill.html</guid>
-        <description>&lt;p&gt;As I continue to investigate the next generation Javascript SPA frameworks, I suddenly paused and thought about our continuous chase for the next framework. Always looking for the next shinny toy to play with. The question that arose in my head was: Does knowing Aurelia, Angular, Entity Framework, Nancy, Katana, React or (insert your latest framework of interest) qualify as a skill?&lt;/p&gt;
+        <description>&lt;dl&gt;
+&lt;img src=&quot;https://github.com/rkato/rkato.github.io/tree/master/img/skill.png&quot; alt=&quot;Skill Image&quot; /&gt;
+&lt;/dl&gt;
+&lt;p&gt;As I continued to investigate the next generation JavaScript SPA frameworks, I paused and thought about our continuous chase for the next framework. Always looking for the next shinny toy to play with. The question that arose in my head was: Does knowing Aurelia, Angular, Entity Framework, Nancy, Katana, React or (insert your latest framework of interest) qualify as a skill?&lt;/p&gt;
 
-&lt;p&gt;Just as I was pondering this , I came across a recent post from &lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_Cecil_Martin&quot;&gt;Uncle Bob&lt;/a&gt;, entitled &lt;a href=&quot;http://blog.cleancoder.com/&quot;&gt;‘Make the magic go away’&lt;/a&gt;. This blog post really resonates with me in that it challenges us to think about the commitments we are making when we chose a framework as the basis for our solution. If those commitments a huge we often find ourself having to writing a lot of framework bound code to get things done.&lt;/p&gt;
+&lt;p&gt;Just as I was pondering this , I came across a recent post from &lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_Cecil_Martin&quot;&gt;Uncle Bob&lt;/a&gt;, entitled &lt;a href=&quot;http://blog.cleancoder.com/&quot;&gt;‘Make the magic go away’&lt;/a&gt;. This blog post really resonates with me, in that it challenges us to think about the commitments that we are making when we choose a framework as the basis for our solution. If those commitments are huge, we often find ourself having to write alot of framework bound code to get things done.&lt;/p&gt;
 
-&lt;p&gt;Frameworks tend to make huge promises upfront about how quickly a team will become productive and indeed you will be able to demo something quickly but at what cost? What are you paying for that magic?&lt;/p&gt;
+&lt;p&gt;Frameworks tend to make huge promises upfront about how quickly a team will become productive, and indeed you will be able to demo something quickly, but at what cost? What are you really paying for that magic?&lt;/p&gt;
 
-&lt;p&gt;The cost I often face is that business rules get spread across layers and it becomes difficult to know where the actual application lies in the system being built. The consequence of this is that one is bound to the framework and cannot use another framework or better write the required code themselves.&lt;/p&gt;
+&lt;p&gt;The cost I often face is that business rules get spread across layers and it becomes difficult to know where the actual application lies in the system being designed. The consequence of this is that one is bound to a specific framework and cannot easily substitute it or better, write the required code themselves.&lt;/p&gt;
 
 &lt;p&gt;You may argue that this is a design problem, but in a team, with members having different levels of experience,  it can be tricky to ensure your business knowledge is centralised.&lt;/p&gt;
 
-&lt;p&gt;Then there are the job adverts that mention framework after framework as a ‘skill’ required for the job. In some scenarios, it may be that the problem is already solved and it’s time for execution. But this is hardly the case. In all my projects, I have found that as I solve the problem, I learn something new. Something I cannot ignore. Something that screams out to change direction. This something will send you into directions that where never anticipated by the framework. Directions that require you to really write some code to solve your problem, no magic as Uncle Bob says.&lt;/p&gt;
+&lt;p&gt;Then, there are the job adverts that mention framework after framework as a ‘skill’ required for the job. In some scenarios, it may be that the problem is already solved and it’s time for execution. But this is hardly the case. In all my projects, I have found that as I solve the problem, I learn something new. Something I cannot ignore. Something that screams out to change direction. This something will send you into directions that were never anticipated by the framework. Directions that require you to really write some code to solve your problem, no magic as Uncle Bob says.&lt;/p&gt;
 
-&lt;p&gt;Therefore, the next time you are choosing your team, it may be worthwhile considering whether that person can make the magic go away!&lt;/p&gt;
+&lt;p&gt;Therefore, the next time you are choosing your team members, it may be worthwhile considering whether that person can make the magic go away!&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Aug 2015 00:00:00 +0200</pubDate>
       </item>

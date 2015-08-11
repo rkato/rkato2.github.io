@@ -5,16 +5,13 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>For the things we have to learn, we learn by doing them</description>
-    <pubDate>Tue, 11 Aug 2015 17:31:57 +0200</pubDate>
+    <pubDate>Tue, 11 Aug 2015 17:35:45 +0200</pubDate>
     
       <item>
         <title>What is a Skill?</title>
         <link>http://example.com/2015/08/09/What%20is%20a%20skill.html</link>
         <guid isPermaLink="true">http://example.com/2015/08/09/What%20is%20a%20skill.html</guid>
-        <description>&lt;dl&gt;
-&lt;img src=&quot;https://github.com/rkato/rkato.github.io/tree/master/img/skill.png&quot; alt=&quot;Skill Image&quot; /&gt;
-&lt;/dl&gt;
-&lt;p&gt;As I continued to investigate the next generation JavaScript SPA frameworks, I paused and thought about our continuous chase for the next framework. Always looking for the next shinny toy to play with. The question that arose in my head was: Does knowing Aurelia, Angular, Entity Framework, Nancy, Katana, React or (insert your latest framework of interest) qualify as a skill?&lt;/p&gt;
+        <description>&lt;p&gt;As I continued to investigate the next generation JavaScript SPA frameworks, I paused and thought about our continuous chase for the next framework. Always looking for the next shinny toy to play with. The question that arose in my head was: Does knowing Aurelia, Angular, Entity Framework, Nancy, Katana, React or (insert your latest framework of interest) qualify as a skill?&lt;/p&gt;
 
 &lt;p&gt;Just as I was pondering this , I came across a recent post from &lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_Cecil_Martin&quot;&gt;Uncle Bob&lt;/a&gt;, entitled &lt;a href=&quot;http://blog.cleancoder.com/&quot;&gt;‘Make the magic go away’&lt;/a&gt;. This blog post really resonates with me, in that it challenges us to think about the commitments that we are making when we choose a framework as the basis for our solution. If those commitments are huge, we often find ourself having to write alot of framework bound code to get things done.&lt;/p&gt;
 
